@@ -14,8 +14,9 @@
 ### Language and Tools:
 
 <div>
-    <img alt="arch" src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" width="40" height="40">
-    <img alt="androidStudio" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg"  width="40" height="40">
+    <img alt="arch" src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" width="20" height="20">
+    <img alt="androidStudio" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg"  width="30" height="30">
+    <img alt="" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width="40" height="40">
     <!-- <img alt="" src="" width="40" height="40"> -->
 </div>
 
