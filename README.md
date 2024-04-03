@@ -14,11 +14,13 @@
    <div id="badges">
     <a href="https://www.linkedin.com/in/pedro-henrique-615767253/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
+    </a> 
     <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
   </div> 
+
+  <img src="https://komarev.com/ghpvc/?username=phln1108">
 </div>
 
 ---
@@ -27,5 +29,3 @@
 * Computer Science student at [***Universidade de Fortaleza***](https://www.unifor.br/)
 * Working at IoT Developer at [***Vortex***](https://vortex.unifor.br/) lab
 ---
-
-![teste](https://komarev.com/ghpvc/?username=phln1108)
