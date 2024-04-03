@@ -16,9 +16,16 @@
 <div>
     <img alt="arch" src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" width="36" height="36">
     <img alt="androidStudio" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg"  width="36" height="36">
-    <img alt="" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width="36" height="36">
-    <img alt="" src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" width="36" height="36">
-    <!-- <img alt="" src="" width="36" height="36"> -->
+    <img alt="arduino" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width="36" height="36">
+    <img alt="godot" src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" width="36" height="36">
+    <img alt="jupyter" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="36" height="36">
+    <img alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="36" height="36">
+    <img alt="linux" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="36" height="36">
+    <img alt="lua" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" width="36" height="36">
+    <img alt="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="36" height="36">
+    <img alt="raspberry" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" width="36" height="36">
+    <img alt="typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="36" height="36">
+    <img alt="c" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="36" height="36">
 </div>
 
 
