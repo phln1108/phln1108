@@ -1,7 +1,5 @@
 <div id="header" align="center"  >
   <img src="https://cdn.mos.cms.futurecdn.net/LBDQG7vQESaQHoPTUzFgQK-320-80.gif" width="300"/>
-  
-  <img src="https://komarev.com/ghpvc/?username=phln1108&style=flat-square&color=blue" alt=""/>
   <h1>
   Hello there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> <br>
@@ -9,6 +7,20 @@
 </h1>
 </div>
 
+###  About Me:
+* Computer Science student at [***Universidade de Fortaleza***](https://www.unifor.br/)
+* Working at IoT Developer at [***Vortex***](https://vortex.unifor.br/) lab
+
+### Language and Tools:
+
+<div>
+    <img alt="arch" src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" width="40" height="40">
+    <img alt="androidStudio" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg"  width="40" height="40">
+    <!-- <img alt="" src="" width="40" height="40"> -->
+</div>
+
+
+---
 
 <div id="header" align="center">
    <div id="badges">
@@ -19,13 +31,6 @@
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
   </div> 
-
-  <img src="https://komarev.com/ghpvc/?username=phln1108">
 </div>
 
----
-
-###  About Me:
-* Computer Science student at [***Universidade de Fortaleza***](https://www.unifor.br/)
-* Working at IoT Developer at [***Vortex***](https://vortex.unifor.br/) lab
 ---
