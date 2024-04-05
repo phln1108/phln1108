@@ -33,10 +33,10 @@
 <div id="header" align="center">
    <div id="badges">
     <a href="https://www.linkedin.com/in/pedro-henrique-615767253/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=border-radius:8px;&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="height:30px;"/>
     </a> 
     <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+      <img src="https://img.shields.io/badge/YouTube-red?style=border-radius:8px;&logo=youtube&logoColor=white" alt="Youtube Badge" style="height:30px;"/>
     </a>
   </div> 
 </div>
