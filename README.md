@@ -3,15 +3,22 @@
   <h1>
   Hello there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> <br>
+    
   I'm Pedro Henrique
 </h1>
+<!-- <img src="https://media.tenor.com/GVbLnw73qD8AAAAi/dancing-duck-karlo.gif" width="50px"> <br>
+<img src="https://media1.tenor.com/m/y0HnKKbCPAoAAAAC/duck-dancing-duck.gif" width="50px"> <br>  -->
 </div>
 
-###  About Me:
+  
+### <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0"><img src="https://media.tenor.com/yRSnf6wABQ4AAAAi/pato-duck.gif" width="30px"></a> About Me:  
 * Computer Science student at [***Universidade de Fortaleza***](https://www.unifor.br/)
 * Working at IoT Developer at [***Vortex***](https://vortex.unifor.br/) lab
+  
 
-### Language and Tools:
+
+
+### <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0"><img src="https://media.tenor.com/GVbLnw73qD8AAAAi/dancing-duck-karlo.gif" width="35px"></a>Language and Tools:
 
 <div>
     <img alt="androidStudio" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg"  width="36" height="36">
