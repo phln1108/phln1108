@@ -1,25 +1,18 @@
 
 
 <div id="header" align="center"  >
-  <img src="https://cdn.mos.cms.futurecdn.net/LBDQG7vQESaQHoPTUzFgQK-320-80.gif" width="300"/>
+  <img src="./camp.gif" width="300"/>
   <h1>
   Hello there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> <br>
     
   I'm Pedro Henrique
 </h1>
-<!-- 
-<img src="https://media.tenor.com/GVbLnw73qD8AAAAi/dancing-duck-karlo.gif" width="50px"> <br>
-<img src="https://media1.tenor.com/m/y0HnKKbCPAoAAAAC/duck-dancing-duck.gif" width="50px"> <br>
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5f42777c-ec7e-4d43-b922-5b2a0506a51f/ddtyl0k-c5774ff3-54cd-4514-9b85-b3461e5762db.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzVmNDI3NzdjLWVjN2UtNGQ0My1iOTIyLTViMmEwNTA2YTUxZlwvZGR0eWwway1jNTc3NGZmMy01NGNkLTQ1MTQtOWI4NS1iMzQ2MWU1NzYyZGIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.fSwnwNS_lS2fp8_OksvcBZaF9QvKOn6LFrDN3Dd_9Ps" width="35px">
--->
 </div>
 
   
 ### <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0"><img src="https://media.tenor.com/yRSnf6wABQ4AAAAi/pato-duck.gif" width="30px"></a> About Me:  
-* Computer Science student at [***Universidade de Fortaleza***](https://www.unifor.br/)
-* Working at IoT Developer at [***Vortex***](https://vortex.unifor.br/) lab
-  
+  I’m a programming enthusiast whose love for games led me to study computing, where I quickly developed a passion for the field. My desire to learn began in university, where solving problems and continuous learning were my greatest joys.
 
 
 
