@@ -31,6 +31,15 @@
     <img alt="typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="36" height="36">
     <img alt="c" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="36" height="36">
 </div>
+<div id="web">
+<img alt="React" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="36" height="36"/>
+<img alt="React" src="" width="36" height="36"/>
+<img alt="React" src="" width="36" height="36"/>
+<img alt="React" src="" width="36" height="36"/>
+<img alt="React" src="" width="36" height="36"/>
+</div>
+
+
 
 
 ---
