@@ -33,9 +33,9 @@
     <img alt="React" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="36" height="36"/>
     <img alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="36" height="36">
     <img alt="typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="36" height="36">
+    <!-- <img alt="" src="" width="36" height="36"/>
     <img alt="" src="" width="36" height="36"/>
-    <img alt="" src="" width="36" height="36"/>
-    <img alt="" src="" width="36" height="36"/>
+    <img alt="" src="" width="36" height="36"/> -->
 </div>
 
 
