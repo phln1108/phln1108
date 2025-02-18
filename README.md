@@ -18,26 +18,29 @@
 
 ### <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0"><img src="https://media.tenor.com/GVbLnw73qD8AAAAi/dancing-duck-karlo.gif" width="35px"></a>Language and Tools:
 
-<div>
-    <img alt="androidStudio" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg"  width="36" height="36">
-    <img alt="arduino" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width="36" height="36">
-    <img alt="godot" src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" width="36" height="36">
-    <img alt="jupyter" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="36" height="36">
-    <img alt="linux" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="36" height="36">
-    <img alt="lua" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" width="36" height="36">
-    <img alt="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="36" height="36">
-    <img alt="raspberry" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" width="36" height="36">
-    <img alt="c" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="36" height="36">
-</div>
-<div id="web">
-    <img alt="React" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="36" height="36"/>
-    <img alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="36" height="36">
-    <img alt="typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="36" height="36">
-    <!-- <img alt="" src="" width="36" height="36"/>
-    <img alt="" src="" width="36" height="36"/>
-    <img alt="" src="" width="36" height="36"/> -->
-</div>
+#### Web:
 
+[![opa](https://skillicons.dev/icons?i=js,html,css,ts,react,vue,vite,styledcomponents,nodejs,npm&perline=5)]()
+
+#### FirmWare & embedded systems:
+
+[![opa](https://skillicons.dev/icons?i=arduino,cpp,c,raspberrypi)]()
+
+#### Game Dev:
+
+[![opa](https://skillicons.dev/icons?i=godot,unity,cs)]()
+
+#### Mobile:
+
+[![opa](https://skillicons.dev/icons?i=kotlin,androidstudio,react)]()
+
+#### Knowledge:
+
+[![opa](https://skillicons.dev/icons?i=git,linux,bash,docker)]()
+
+#### Others:
+
+[![opa](https://skillicons.dev/icons?i=lua,py,md)]()
 
 
 
