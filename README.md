@@ -18,9 +18,13 @@
 
 ### <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0"><img src="https://media.tenor.com/GVbLnw73qD8AAAAi/dancing-duck-karlo.gif" width="35px"></a>Language and Tools:
 
-#### Web:
+#### FrontEnd:
 
-[![opa](https://skillicons.dev/icons?i=js,html,css,ts,react,vue,vite,styledcomponents,nodejs,npm&perline=5)]()
+[![opa](https://skillicons.dev/icons?i=js,html,css,ts,react,vite,tailwind,styledcomponents,nodejs,npm&perline=5)]()
+
+### BackEnd:
+
+[![opa](https://skillicons.dev/icons?i=spring,java,kotlin,blank,blank,fastapi,nestjs&perline=5)]()
 
 #### FirmWare & embedded systems:
 
