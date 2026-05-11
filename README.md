@@ -20,11 +20,11 @@
 
 #### FrontEnd:
 
-[![opa](https://skillicons.dev/icons?i=js,html,css,ts,react,vite,tailwind,styledcomponents,nodejs,npm&perline=5)]()
+[![opa](https://skillicons.dev/icons?i=html,css,ts,react,tailwind&perline=5)]()
 
 ### BackEnd:
 
-[![opa](https://skillicons.dev/icons?i=spring,java,kotlin,blank,blank,fastapi,nestjs&perline=5)]()
+[![opa](https://skillicons.dev/icons?i=spring,java,kotlin,&perline=5)]()
 
 #### FirmWare & embedded systems:
 
@@ -32,20 +32,15 @@
 
 #### Game Dev:
 
-[![opa](https://skillicons.dev/icons?i=godot,unity,cs)]()
+[![opa](https://skillicons.dev/icons?i=godot)]()
 
 #### Mobile:
 
-[![opa](https://skillicons.dev/icons?i=kotlin,androidstudio,react)]()
+[![opa](https://skillicons.dev/icons?i=androidstudio,react)]()
 
 #### Knowledge:
 
-[![opa](https://skillicons.dev/icons?i=git,linux,bash,docker)]()
-
-#### Others:
-
-[![opa](https://skillicons.dev/icons?i=lua,py,md)]()
-
+[![opa](https://skillicons.dev/icons?i=git,linux,bash,docker,lua,py,md&perline=4)]()
 
 
 ---
